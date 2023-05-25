@@ -3,8 +3,7 @@ Bot for parsing and forwarding messages from the chat list by keywords
 
 <h2>Install dependencies</H2>
 
-<code>
-pip install telethon
+<code>pip install telethon
 </code>
 
 <h2>Setup Bot</h2>
